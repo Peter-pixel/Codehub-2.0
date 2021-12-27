@@ -1,0 +1,24 @@
+#resources
+{
+ width:35%;
+ height:100%;
+ margin-left: 10%;
+ margin-right: 5%;
+}
+#video_resources
+{
+	position: absolute;
+	width:35%;
+	height:100%;
+	margin-left: 5%;
+	margin-top: 10%;
+    margin-right: 10%;
+}
+#chatroom
+{
+position:relative;
+margin-left: 5%;
+margin-right: 10%;
+padding-top:30%;
+padding-left:80%;
+}
